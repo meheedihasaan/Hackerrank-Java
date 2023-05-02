@@ -10,6 +10,9 @@ import java.util.Scanner;
  *
  * @author User
  */
+
+//Problem Link: https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true
+
 public class JavaString {
     
     public static void main(String[] args) {
