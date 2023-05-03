@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 //Problem Link: https://www.hackerrank.com/challenges/java-biginteger/problem?isFullScreen=true
 
-public class BigDecimal {
+public class BigDecimalJava {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
